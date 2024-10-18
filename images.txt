@@ -1,3 +1,4 @@
 vulhub/showdoc:3.2.4
 vulhub/confluence:8.5.3
 postgres:15.4-alpine
+vulhub/liferay-portal:7.2.0-ga1
