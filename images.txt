@@ -2,3 +2,4 @@ vulhub/showdoc:3.2.4
 vulhub/confluence:8.5.3
 postgres:15.4-alpine
 nasqueron/openfire:4.6.7
+vulhub/spring-webmvc:5.3.17
