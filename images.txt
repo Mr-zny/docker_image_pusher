@@ -3,3 +3,4 @@ vulhub/confluence:8.5.3
 postgres:15.4-alpine
 nasqueron/openfire:4.6.7
 vulhub/spring-webmvc:5.3.17
+mongodb/mongodb-community-server:6.0.27-ubuntu2204-20260119T063217Z
